@@ -1,5 +1,7 @@
 site_name: Sitio de Alexis
 site_description: Pagina de prueba de Alexis para la practica
+docs_dir: md
+site_dir: docs
 theme: 
      name: readthedocs
 nav: 
