@@ -1,0 +1,10 @@
+site_name: Sitio de Alexis
+site_description: Pagina de prueba de Alexis para la practica
+theme: 
+     name: readthedocs
+nav: 
+- Inicio: 'index.md'
+- Pagina1: 'pagina1.md'
+- Pagina2: 'pagina2.md'
+- Pagina3: 'pagina3.md'
+
